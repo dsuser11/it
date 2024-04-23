@@ -78,6 +78,7 @@ public class Berkeley {
     }
 }
 
+
 //Terminal
 javac *.java
 java Berkeley
