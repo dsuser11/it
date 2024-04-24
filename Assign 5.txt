@@ -46,7 +46,6 @@ public class TokenRing {
         }
     }
 }
-
 //Terminal
 java TokenRing
 Enter the number of nodes: 4
