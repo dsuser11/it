@@ -117,7 +117,7 @@ public class Bully {
 
 //Terminal
 javac *.java
-java Ring
+java Bully
 Enter your choice:- 1
 Enter the total number of processes:- 6
 Enter your choice:- 2
